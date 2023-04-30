@@ -1,0 +1,22 @@
+{
+  "name": "compression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compressjs": "^1.0.3",
+    "fflate": "^0.7.4",
+    "gzip-js": "^0.3.2",
+    "pako": "^2.1.0",
+    "snappy": "^7.2.2"
+  },
+  "devDependencies": {
+    "@types/gzip-js": "^0.3.3",
+    "@types/pako": "^2.0.0"
+  }
+}
